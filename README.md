@@ -22,4 +22,4 @@ You can use this Gulp starter file to:
 To run the default Gulp task, use the following command:
 
 ```bash
-# gulp
+ gulp
